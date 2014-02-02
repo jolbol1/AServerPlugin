@@ -1,0 +1,22 @@
+name: The Galaxy
+main: com.thegalaxy.thegalaxy.thegalaxy
+version: alpha_0.1
+author: jolbol1
+description: >
+             The Galaxy Custom Plugin
+commands:
+  spawn:
+    description: Do the test feature!
+  setspawn:
+    description: Do the test feature!
+  tntrun:
+    description: Do the test feature!
+    aliases: [tnt, runtnt]
+  tp:
+    description: Do the test feature!
+  ladder:
+    description: Do the test feature!
+    aliases: [KOTL, kingoftheladder, ladderking]
+  nickname:
+    description: Do the test feature!
+    aliases: [nick]
